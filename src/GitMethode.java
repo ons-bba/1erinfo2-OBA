@@ -2,11 +2,11 @@ public class GitMethode {
 
 
     public static int sum(int[] array) {
-        int sum = 0;
+        int somme = 0;
         for (int element : array) {
-            sum += element;
+            somme += element;
         }
-        return sum;
+        return somme;
     }
 
 
