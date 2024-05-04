@@ -4,7 +4,7 @@ public class GitMethode {
     public static int sum(int[] array) {
         int total = 0;
         for (int element : array) {
-            total += element;
+            total += element +1;
         }
         return total;
     }

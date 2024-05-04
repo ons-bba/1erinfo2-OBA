@@ -13,7 +13,8 @@ public class Main {
         }
 
 
-        GitMethode methode1 = new GitMethode();
+        GitMethode methode2 = new GitMethode();
+
 
     }
 }
